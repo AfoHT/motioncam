@@ -2,14 +2,11 @@
 
 Motion Cam is a camera application for Android that replaces the entire camera pipeline. It consumes RAW images and uses computational photography to combine multiple images to reduce noise. Additionally, it uses a single underexposed image to recover highlights and increase dynamic range.
 
-You can install the latest version from [GitHub](https://github.com/mirsadm/motioncam/releases)
-or a slightly out of date version from the [Play Store](https://play.google.com/store/apps/details?id=com.motioncam)
+Download the latest free release from [Play Store](https://play.google.com/store/apps/details?id=com.motioncam)
 
 # RAW video capture
 
 Capture RAW video up to 60 FPS on supported devices.
-
-![Latest beta build](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/MotionCam.8.0.8-beta2.apk)
 
 ### Get Help / Join a discussion about the app
 
