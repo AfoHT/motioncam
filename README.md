@@ -1,8 +1,15 @@
 # About
 
-Motion Cam is a camera application for Android that replaces the entire camera pipeline. It consumes RAW images and uses computational photography to combine multiple images to reduce noise. Additionally, it uses a single underexposed image to recover highlights and increase dynamic range.
+MotionCam is a camera application for Android that replaces the entire camera pipeline. It consumes RAW images and uses computational photography to combine multiple images to reduce noise.
 
-Download the latest free release from [Play Store](https://play.google.com/store/apps/details?id=com.motioncam)
+Download the latest free release:
+
+<a href='https://play.google.com/store/apps/details?id=com.motioncam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="25%"/></a>
+
+Download the latest PRO release:
+
+<a href='https://play.google.com/store/apps/details?id=com.motioncam.pro&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="25%"/></a>
+
 
 # RAW video capture
 
@@ -18,11 +25,9 @@ For bug reports, discussions and feature requests/ideas join us on Slack:
 
 Download tools to convert the recorded videos to DNG on your PC:
 
-![Windows](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/motioncam-tools-win-0.13.zip)
+![Windows](https://github.com/mirsadm/motioncam/releases/download/v0.21/motioncam-tools-win-x64.zip)
 
-![Mac Intel](https://github.com/mirsadm/motioncam/releases/download/8.0.7-beta5/motioncam-tools-mac-intel-0.1.1.dmg)
-
-![Mac M1](https://github.com/mirsadm/motioncam/releases/download/8.0.8-beta2/motioncam-tools-macos-m1-0.13.zip)
+![Mac M1](https://github.com/mirsadm/motioncam/releases/download/v0.21/motioncam-tools-macos-m1.zip)
 
 ### Tutorials
 
