@@ -10,16 +10,15 @@ Download the latest PRO release:
 
 <a href='https://play.google.com/store/apps/details?id=com.motioncam.pro&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="25%"/></a>
 
+## Get Help / Join a discussion about the app
+
+For bug reports, discussions and feature requests/ideas join us on Discord:
+
+[Discord Invite](https://discord.gg/Vy4gQNEdNS)
 
 # RAW video capture
 
 Capture RAW video up to 60 FPS on supported devices.
-
-### Get Help / Join a discussion about the app
-
-For bug reports, discussions and feature requests/ideas join us on Slack:
-
-[Slack Invite](https://join.slack.com/t/motioncam/shared_invite/zt-10ziu3m2d-cdNXbCPJPf1BhTZb_jBgZQ)
 
 ### Convert to DNG on your PC
 
