@@ -24,9 +24,7 @@ Capture RAW video up to 60 FPS on supported devices.
 
 Download tools to convert the recorded videos to DNG on your PC:
 
-![Windows](https://github.com/mirsadm/motioncam/releases/download/v0.22/motioncam-tools-0.22-win-x64.zip)
-
-![Mac M1](https://github.com/mirsadm/motioncam/releases/download/v0.22/motioncam-tools-0.2.2-macos-m1.zip)
+![motioncamapp.com](https://www.motioncamapp.com/)
 
 ### Tutorials
 
